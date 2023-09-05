@@ -1,0 +1,38 @@
+.hdr-title{
+	text-align:center;
+}
+.form-table>tr,.form-table>td{
+	border:none;
+}
+.brand-img{
+	width:160px;
+}
+.content-table{
+	border-collapse: collapse;
+}
+.content-table>tr, content-table>td{
+	border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.right-hdr-item{
+	width:200px;
+    position:fixed;
+    top:0;
+    right:10px;	
+    display:flex;
+    
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  diplay:flex; 
+}
+li {
+  float: left;
+}
+.show-content{
+	margin-left:20px;
+}
